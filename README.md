@@ -1,2 +1,1 @@
-# grant_cubes_tables
-对指定的project下指定的cube的所有表，对指定的用户批量授权
+shell 脚本 传入指定参数
